@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := all
-package = kangas
+package = synkronoida
 black = black -S -l 120 --target-version py311 $(package) test
 lint = ruff $(package) test
 pytest = pytest --asyncio-mode=strict --cov=$(package) --cov-report term-missing:skip-covered --cov-branch --log-format="%(levelname)s %(message)s"

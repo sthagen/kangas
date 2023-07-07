@@ -1,0 +1,13 @@
+name: kangas
+description: Fabric (Finnish: kangas) weaving across a local cluster of machines hosting multiple linked processes.
+license_spdx: MIT
+version: 2023.7.7
+spec_version: 1.0
+home_url: https://git.sr.ht/~sthagen/kangas
+news_url: https://libraries.io/pypi/kangas/versions.atom
+date: 2023-07-07
+about_resource: ./
+libraries_io_url: https://libraries.io/pypi/kangas?number=2023.7.7
+vcs_tool: git
+vcs_repository: https://git.sr.ht/~sthagen/kangas
+vcs_branch: default

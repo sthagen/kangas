@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/synkronoida/blob/default/sbom/cdx.json) with SHA256 checksum ([db86351f ...](https://git.sr.ht/~sthagen/synkronoida/blob/default/sbom/cdx.json.sha256 "sha256:db86351fcc950a5ffe184730b70cb180fdc9d603020436a0b1165b3e17abeb27")).
-<!--[[[end]]] (checksum: ef436902ab4e2fc9f56bf39c74511f80)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/synkronoida/blob/default/sbom/cdx.json) with SHA256 checksum ([2a61b178 ...](https://git.sr.ht/~sthagen/synkronoida/blob/default/sbom/cdx.json.sha256 "sha256:2a61b1787edaa7e95bbff06658b411269f49ec4dfc7a1886964249abc1bc1e33")).
+<!--[[[end]]] (checksum: c14014ee7655dbbccd3b5aa641f1a312)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)

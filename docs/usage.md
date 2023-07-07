@@ -1,6 +1,6 @@
 # Usage
 
-Simple weave and sync application - probably not useful to many.
+Simple sync distributed application helper - probably not useful to many.
 
 ## Synopsis
 

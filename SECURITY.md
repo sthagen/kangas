@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Versions of kangas currently being supported with security updates.
+Versions of synkronoida currently being supported with security updates.
 
 | Version(s)  | Supported |
 |:----------- |:--------- |

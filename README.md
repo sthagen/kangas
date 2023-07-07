@@ -1,36 +1,36 @@
-# Kangas
+# Synkronoida
 
-Fabric (Finnish: kangas) weaving across a local cluster of machines hosting multiple linked processes.
+Syncronize (Finnish: synkronoida) state across a local cluster of machines hosting multiple linked processes.
 
-[License: MIT](https://git.sr.ht/~sthagen/kangas/tree/default/item/LICENSE)
+[License: MIT](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/LICENSE)
 
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
-[![version](https://img.shields.io/pypi/v/kangas.svg?style=flat)](https://pypi.python.org/pypi/kangas/)
-[![downloads](https://pepy.tech/badge/kangas/month)](https://pepy.tech/project/kangas)
-[![wheel](https://img.shields.io/pypi/wheel/kangas.svg?style=flat)](https://pypi.python.org/pypi/kangas/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/kangas.svg?style=flat)](https://pypi.python.org/pypi/kangas/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/kangas.svg?style=flat)](https://pypi.python.org/pypi/kangas/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/kangas.svg?style=flat)](https://git.sr.ht/~sthagen/kangas/log)
+[![version](https://img.shields.io/pypi/v/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
+[![downloads](https://pepy.tech/badge/synkronoida/month)](https://pepy.tech/project/synkronoida)
+[![wheel](https://img.shields.io/pypi/wheel/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
+[![supported-versions](https://img.shields.io/pypi/pyversions/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
+[![supported-implementations](https://img.shields.io/pypi/implementation/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/synkronoida.svg?style=flat)](https://git.sr.ht/~sthagen/synkronoida/log)
 
 ## Documentation
 
-User and developer [documentation of kangas](https://codes.dilettant.life/docs/kangas).
+User and developer [documentation of synkronoida](https://codes.dilettant.life/docs/synkronoida).
 
 ## Bug Tracker
 
-Any feature requests or bug reports shall go to the [todos of kangas](https://todo.sr.ht/~sthagen/kangas).
+Any feature requests or bug reports shall go to the [todos of synkronoida](https://todo.sr.ht/~sthagen/synkronoida).
 
 ## Primary Source repository
 
-The main source of `kangas` is on a mountain in central Switzerland.
+The main source of `synkronoida` is on a mountain in central Switzerland.
 We use distributed version control (git).
 There is no central hub.
 Every clone can become a new source for the benefit of all.
-The preferred public clones of `kangas` are:
+The preferred public clones of `synkronoida` are:
 
-* [on codeberg](https://codeberg.org/sthagen/kangas) - a democratic community-driven, non-profit software development platform operated by Codeberg e.V.
-* [at sourcehut](https://git.sr.ht/~sthagen/kangas) - a collection of tools useful for software development.
+* [on codeberg](https://codeberg.org/sthagen/synkronoida) - a democratic community-driven, non-profit software development platform operated by Codeberg e.V.
+* [at sourcehut](https://git.sr.ht/~sthagen/synkronoida) - a collection of tools useful for software development.
 
 ## Contributions
 

@@ -1,6 +1,6 @@
 # Synkronoida
 
-Syncronize (Finnish: synkronoida) state across a local cluster of machines hosting multiple linked processes.
+Synchronize (Finnish: synkronoida) state across a local cluster of machines hosting multiple linked processes.
 
 [License: MIT](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/LICENSE)
 

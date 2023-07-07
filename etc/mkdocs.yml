@@ -1,5 +1,5 @@
 site_name: Synkronoida
-site_description: "Syncronize (Finnish: synkronoida) state across a local cluster of machines hosting multiple linked processes."
+site_description: "Synchronize (Finnish: synkronoida) state across a local cluster of machines hosting multiple linked processes."
 docs_dir: ../docs
 site_dir: ../site
 

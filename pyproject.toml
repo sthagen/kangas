@@ -3,9 +3,9 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "kangas"
+name = "synkronoida"
 version = "2023.7.7"
-description = "Fabric (Finnish: kangas) weaving across a local cluster of machines hosting multiple linked processes."
+description = "Syncronize (Finnish: synkronoida) state across a local cluster of machines hosting multiple linked processes."
 readme = "README.md"
 authors = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 maintainers = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
@@ -28,17 +28,17 @@ requires-python = ">=3.9"
 dev = ["black", "coverage", "hypothesis", "mypy", "pytest", "pytest-cov", "pytest-flake8", "ruff"]
 
 [project.urls]
-Homepage = "https://git.sr.ht/~sthagen/kangas"
-Bug-Tracker = "https://todo.sr.ht/~sthagen/kangas"
-Documentation = "https://codes.dilettant.life/docs/kangas"
-Source-Code = "https://git.sr.ht/~sthagen/kangas"
-Test-Coverage = "https://codes.dilettant.life/coverage/kangas"
+Homepage = "https://git.sr.ht/~sthagen/synkronoida"
+Bug-Tracker = "https://todo.sr.ht/~sthagen/synkronoida"
+Documentation = "https://codes.dilettant.life/docs/synkronoida"
+Source-Code = "https://git.sr.ht/~sthagen/synkronoida"
+Test-Coverage = "https://codes.dilettant.life/coverage/synkronoida"
 
 [project.scripts]
-kangas = "kangas.cli:app"
+synkronoida = "synkronoida.cli:app"
 
 [tool.setuptools.packages.find]
-include = ["kangas"]
+include = ["synkronoida"]
 exclude = ["test*"]
 
 [tool.black]

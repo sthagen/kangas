@@ -7,7 +7,7 @@ Synchronize (Finnish: synkronoida) state across a local cluster of machines host
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
-[![downloads](https://pepy.tech/badge/synkronoida/month)](https://pepy.tech/project/synkronoida)
+[![downloads](https://static.pepy.tech/badge/synkronoida/month)](https://pepy.tech/project/synkronoida)
 [![wheel](https://img.shields.io/pypi/wheel/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)

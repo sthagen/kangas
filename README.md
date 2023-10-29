@@ -2,18 +2,15 @@
 
 Synchronize (Finnish: synkronoida) state across a local cluster of machines hosting multiple linked processes.
 
-[License: MIT](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/LICENSE) | 
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/COUNTRY-OF-ORIGIN) | 
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![License](docs/badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/LICENSE)
+[![Country of Origin](docs/badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/docs/third-party/README.md)
 
-Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
-[![downloads](https://static.pepy.tech/badge/synkronoida/month)](https://pepy.tech/project/synkronoida)
-[![wheel](https://img.shields.io/pypi/wheel/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/synkronoida.svg?style=flat)](https://git.sr.ht/~sthagen/synkronoida/log)
+[![Version](https://img.shields.io/pypi/v/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
+[![Downloads](https://static.pepy.tech/badge/synkronoida/month)](https://pepy.tech/project/synkronoida)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/synkronoida.svg?style=flat)](https://git.sr.ht/~sthagen/synkronoida/log)
 
 ## Documentation
 

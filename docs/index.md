@@ -10,7 +10,7 @@ Synchronize (Finnish: synkronoida) state across a local cluster of machines host
 [![Version](https://img.shields.io/pypi/v/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
 [![Downloads](https://static.pepy.tech/badge/synkronoida/month)](https://pepy.tech/project/synkronoida)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/synkronoida.svg?style=flat)](https://git.sr.ht/~sthagen/synkronoida/log)
+[![Maintenance Status](docs/badges/downloads-per-month.svg)](https://git.sr.ht/~sthagen/synkronoida/log)
 
 ## Bug Tracker
 

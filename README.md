@@ -7,7 +7,7 @@ Synchronize (Finnish: synkronoida) state across a local cluster of machines host
 [![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/synkronoida/tree/default/item/docs/third-party/README.md)
 
-[![Version](https://img.shields.io/pypi/v/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
+[![Version](docs/badges/latest-release.svg)](https://pypi.python.org/pypi/synkronoida/)
 [![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/synkronoida)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/synkronoida.svg?style=flat)](https://pypi.python.org/pypi/synkronoida/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/synkronoida/log)

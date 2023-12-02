@@ -1,7 +1,7 @@
 {
   "synkronoida": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:35:33.432302",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 16:31:56 +00:00",
     "branch_coverage": false,
     "show_contexts": true,
     "covered_lines": 0,
@@ -9,6 +9,22 @@
     "percent_covered": 0,
     "percent_covered_display": "0.00",
     "missing_lines": 17,
-    "excluded_lines": 0
+    "excluded_lines": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "synkronoida/__init__.py",
+      "synkronoida/api.py",
+      "synkronoida/cli.py"
+    ],
+    "blake3": "ae18ebbe6167474ce429c365c391d87924d919e5f163ce27c98230c1744db46f",
+    "blake2": "561376cdd21e586b2a26f13f06db15acaa216916f879d573387dbea61447b45e7888e0d5244ce203add8ed149b225f081e1a65dc19e2e3a73b19684c1a82b32d",
+    "sha512": "0c2d9f257e6177844b1b924842560611cdc0758c6e951ca3280d85538334e4de5bfebbfc8387046a214950862134ebd741ce53b04b140802bc47ed79f20eaefa",
+    "sha384": "feba6d857a29454f4d54eff5f110ebd29001dcf47eb28dd9146edab69e8a56c33a1a9a86866ddc8638a825a38556faca",
+    "sha256": "31546e11d5f423698aaf40169e42cbdc6e24417f7e39b91e921f5bd9a9da183a",
+    "sha1": "d506d0682ad54528074e0031fea0eeb1b4eaba19",
+    "md5": "b176c3a5a05a6d62fafb3050c12f3100",
+    "python_version": "3.11.4",
+    "entropy": 5.463401
   }
 }

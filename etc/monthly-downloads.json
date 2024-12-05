@@ -47,11 +47,6 @@
     },
     {
       "category": "null",
-      "date": "2024-05",
-      "downloads": 3
-    },
-    {
-      "category": "null",
       "date": "2024-06",
       "downloads": 5
     },
@@ -78,7 +73,12 @@
     {
       "category": "null",
       "date": "2024-11",
-      "downloads": 32
+      "downloads": 34
+    },
+    {
+      "category": "null",
+      "date": "2024-12",
+      "downloads": 2
     }
   ],
   "package": "synkronoida",
